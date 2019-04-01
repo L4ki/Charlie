@@ -1,0 +1,17 @@
+[Desktop Entry]
+Comment=Charlie
+Name=Charlie
+X-KDE-PluginInfo-Author=l4k1
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-Email=l4k1987@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GLPv3
+X-KDE-PluginInfo-Name=Charlie
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-EnabledByDefault=true
+
+[ContrastEffect]
+enabled=false
+contrast=0.2
+intensity=0.4
+saturation=1.7
